@@ -132,7 +132,7 @@
       <SubSystem>Console</SubSystem>
       <OutputFile>.\..\Debug\Test.exe</OutputFile>
       <AdditionalDependencies>CallMon.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)</AdditionalDependencies>
-      <AdditionalLibraryDirectories>C:\Users\xiuxi\source\repos\test1_test2;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>D:\gitHub\CallMonitor_old_to_vs2019\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
