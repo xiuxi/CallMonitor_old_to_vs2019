@@ -128,6 +128,7 @@
       <OutputFile>.\Debug\Test.bsc</OutputFile>
     </Bscmake>
     <Link>
+		<!-- -->
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <SubSystem>Console</SubSystem>
